@@ -2,22 +2,18 @@
 
 ---
 
-### Category Name 1 
+### (PG Cert Cyber Security)[https://online.essex.ac.uk/courses/pg-cert-cyber-security/]
 
-[Project 1 Title](/sample_page)
+[M1: Launching into Cyber Security](/m1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Project 2 Title](/m2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### PG Dip Cyber Security
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

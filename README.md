@@ -1,7 +1,7 @@
 ## Celine's Cybersecurity Portfolio - University of Essex
 
 ### Introduction
-
+Highlights of my cybersecurity journey will be recorded in my e-portfolio.
 
 ### References
 
