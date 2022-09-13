@@ -2,13 +2,13 @@
 
 ---
 
-### (PG Cert Cyber Security)[https://online.essex.ac.uk/courses/pg-cert-cyber-security/]
+### <a href="https://online.essex.ac.uk/courses/pg-cert-cyber-security/"> PG Cert Cyber Security </a>
 
-[M1: Launching into Cyber Security](/m1)
+[M1: Launching into Cyber Security](/e-Portfolio/m1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/m2)
+[Project 2 Title](/e-Portfolio/m2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
