@@ -1,35 +1,29 @@
-# Module 2: Security and Risk Management
+# [Module 2: Security and Risk Management](/e-Portfolio/m2_index) - Individual Investigations
 
-*The Security and Risk Management module reviews traditional and recent risk models, risk assessments via qualitative and quantitative methods, security standards such as PCI-DSS business continuity and disaster recovery solutions. Please note that some hyperlinks require access to the Security and Risk Management Module in the University of Essex's Online Virtual Learning Environment.*
+*The Individual Investigations section include forum discussion posts, e-portfolio activities, wiki contributions, personal notes, ideas, reflection and thoughts.*
 
-<br>
 
-# Table of Contents
-1. [Unit 2 Seminar - User Participation in the Risk Management Process](#u2-seminar)
-2. [Summary Post - Collaborative Learning Discussion 1](#cld1-summary)
-3. [Summary Post - Collaborative Learning Discussion 2](#cld2-summary)
-
-<br>
-
-<a name="u2-seminar"></a>
-
-## 1. Unit 2 Seminar - User Participation in the Risk Management Process
-
->*The following piece is a discussion based on the Spears & Barki (2010) article, which uses Qualitative vs Quantitative assessment approaches to involve users in the risk management process.*
+## Table of Contents
+1. [Units 1-3] [Collaborative Learning Discussion 1: Summary Post](#1-units-1-3-collaborative-learning-discussion-1-summary-post)
+2. [Unit 5] [E-Portfolio Activity: GDPR Case Studies](#2-unit-5-e-portfolio-activity-gdpr-case-studies)
+3. [Units 7-9] [Collaborative Learning Discussion 2: Summary Post](#3-units-7-9-collaborative-learning-discussion-2-summary-post)
+4. [All] [Wiki Contributions](#4-all-wiki-contributions)
+5. [All] [Reflection and Thoughts](#5-all-reflection-and-thoughts)
+6. [All] [Individual Module e-Portfolio](#6-all-individual-module-e-portfolio)
 
 <br>
+---
 
-### **References**
-Spears, J. & Barki, H. (2010) User Participation in Information Systems Security Risk Management. *MIS Quarterly* 34(3): 503.
-
-<br><br>
-
-<a name="cld1-summary"></a>
-
-## 2. Summary Post - Collaborative Learning Discussion 1
+## 1. [Units 1-3] Collaborative Learning Discussion 1: Summary Post
 
 <blockquote>
     <i>
+    Based on your reading of the case study (Kovaitė and Stankevičienė, 2019) answer the following questions in the discussion forum:
+    <ul>
+        <li>What do the authors mean by the term ‘Industry 4.0’ - give two examples.</li>
+        <li>Give two real-world examples of risks that fit into the authors categories.</li>
+        <li>Find another journal article that either supports or contradicts the points made in the cited study.</li>
+    </ul>
     Below is my summary post to the Collaborative Learning Discussion 1: Weeks 1-3. Click <a href="https://www.my-course.co.uk/mod/forum/view.php?id=702659">here</a> to see the discussions, including my inital post and peer responses.
     </i>
 </blockquote>
@@ -74,38 +68,24 @@ Radanliev et al. (2020) Cyber risk at the edge: current and future trends on cyb
 
 <br><br>
 
-<a name="cld2-summary"></a>
-
-## 3. Summary Post - Collaborative Learning Discussion 2
+## 2. [Unit 5] E-Portfolio Activity: GDPR Case Studies
 
 <br><br>
 
-<a name="u4-seminar"></a>
-
-## 4. Unit 4 Seminar - 
+## 3. [Units 7-9] Collaborative Learning Discussion 2: Summary Post
 
 <br><br>
 
-<a name="u5-activity"></a>
-
-## 5. Unit 5 e-Portfolio Activity – GDPR Case Studies
+## 4. [All] Wiki Contributions
 
 <br><br>
 
-<a name="u8-seminar"></a>
-
-## 6. Unit 8 Seminar - 
+## 5. [All] Reflection and Thoughts
 
 <br><br>
 
-<a name="u10-seminar"></a>
+## 6. [All] Individual Module e-Portfolio
 
-## 7. Unit 10 Seminar - 
+<br>
 
-<br><br>
-
-<a name="u12-seminar"></a>
-
-<br><br>
-
-## 8. Unit 12 Seminar - 
+[Back to top](#module-2-security-and-risk-management---individual-investigations)
