@@ -5,5 +5,19 @@ Highlights of my cybersecurity journey will be recorded in my e-portfolio.
 
 ### References
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-[2] Jekyll Codex Breadcrumbs: http://jekyllcodex.org/without-plugin/breadcrumbs
+Credits:
+
+	Helios by HTML5 UP:
+		AJ @ajlkn (aj@lkn.io)
+		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	Demo Images:
+		Michael Domaradzki (md.photomerchant.net)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
