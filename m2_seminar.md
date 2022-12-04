@@ -18,7 +18,19 @@
 
 ## 1. [Unit 2] Seminar 1: User Participation in the Risk Management Process
 
+### Risk Management Process
+The risk management process is comparable to the Software Development Life Cycle (SDLC). Managing risk is an iterative process involving conducting regular risk assessments and coming up with risk plans. User participation is an essential part of understanding the scope of risk from the user's perspective, as studied by Spears & Barki (2010).
+
+### Spears & Barki (2010)
 >*The following piece is a discussion based on the Spears & Barki (2010) article, which uses Qualitative vs Quantitative assessment approaches to involve users in the risk management process.*
+
+**Qualitative Approaches**
+
+In order to find variables to test for the qualitative component of the study, the authors adopted several qualitative approaches:
+- Semi-structured interviews with the users
+- SOX Experience
+
+**Quantitative Approaches**
 
 <br>
 
@@ -54,7 +66,7 @@ Spears, J. & Barki, H. (2010) User Participation in Information Systems Security
 
 **Modern Cloud Security Concerns**
 
-### **[Part B: High-level diagram of DR solutions](/pdf/Unit_10_Seminar_DR_Solution.pdf)**
+### **[Part B: High-level diagram of DR solutions](/pdf/M2_Unit_10_Seminar_DR_Solution.pdf)**
 
 <br><br>
 

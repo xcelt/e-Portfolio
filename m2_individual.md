@@ -77,6 +77,21 @@ Radanliev et al. (2020) Cyber risk at the edge: current and future trends on cyb
 <br><br>
 
 ## 4. [All] Wiki Contributions
+Below are my contributions to the <a href="https://www.my-course.co.uk/mod/glossary/view.php?id=702635">Module Wiki</a>.
+
+
+**SSVC**
+
+"A vulnerability analysis methodology that accounts for a vulnerability's exploitation status, impacts to safety, and prevalence of the affected product in a singular system." (CISA, N.D.)
+
+*Keyword*
+
+`Stakeholder-Specific Vulnerability Categorization`
+
+
+### Reference
+
+Cybersecurity and Infrastructure Security Agency (CISA). (N.D.) Stakeholder-specific vulnerability categorization. Available from: https://www.cisa.gov/ssvc [Accessed 22 November 2022].
 
 <br><br>
 
@@ -85,6 +100,7 @@ Radanliev et al. (2020) Cyber risk at the edge: current and future trends on cyb
 <br><br>
 
 ## 6. [All] Individual Module e-Portfolio
+A redesign of this e-Portfolio is currently being considered to improve the User Experience (UX).
 
 <br>
 
