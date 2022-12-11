@@ -3153,3 +3153,7 @@ input, select, textarea {
 		background: #452188;
 		color: #fff;
 	}
+
+	.site-note {
+		font-size: small;
+	}
